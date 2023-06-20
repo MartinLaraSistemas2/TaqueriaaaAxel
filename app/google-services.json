@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422788350065",
+    "project_id": "taqueriaaaxel",
+    "storage_bucket": "taqueriaaaxel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422788350065:android:f5313d2b937a2c8651dbd0",
+        "android_client_info": {
+          "package_name": "com.example.taqueriaaaxel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJo9N7W1jQt9V9RB6njIZMULGBO9Ez7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
